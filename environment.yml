@@ -18,7 +18,6 @@ dependencies:
 
   # Algorithms
   - nlopt
-  - pygmo
 
   - pip:
     - black
